@@ -1,6 +1,9 @@
 # Documentation
 ![Screenshot of the game](game/assets/gamepic.png)
 
+### Collaboration
+This game is made in collaboartion with @chipsfilip as a school project in our first year at KTH.
+
 ### Theme
 A top down roguelite adventure game where you are a young elfen boy and you have to find your way home. Though, to get home, you will have to encounter and overcome the enemies in your way.
 
